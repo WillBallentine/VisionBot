@@ -23,3 +23,13 @@ To configure this bot, you will need to have a few thing ready beforehand.
 Neuralintents: https://pypi.org/project/neuralintents/
 Discord API: https://discordpy.readthedocs.io/en/stable/api.html
 Clarifai API: https://portal.clarifai.com/login & https://www.clarifai.com/
+
+
+#### Versioning Notes
+This setup uses specific versions of the Discord API (1.7.3), Tensorflow (2.10.0), and protobuf (3.20.*).
+
+
+#### Packages Used That May require installation (see above for version notes)
+discord
+neuralintents
+clarifai-grpc
