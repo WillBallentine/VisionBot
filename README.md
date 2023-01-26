@@ -30,6 +30,6 @@ This setup uses specific versions of the Discord API (1.7.3), Tensorflow (2.10.0
 
 
 #### Packages Used That May require installation (see above for version notes)
-discord
-neuralintents
-clarifai-grpc
+discord  
+neuralintents  
+clarifai-grpc  
